@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examprasadj2</string>
+    <string name="score">SCORE:</string>
+    <string name="placeholder_score">2048</string>
+    <string name="new_game">New Game</string>
+    <string name="lost">There ae no more moves, you\'ve lost the game!</string>
+</resources>
